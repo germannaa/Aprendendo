@@ -1,4 +1,4 @@
-Fac¸a um programa que leia um numero inteiro e o imprima. ´
+Faça um programa que leia um numero inteiro e o imprima. ´
 2. Fac¸a um programa que leia um numero real e o imprima. ´
 3. Pec¸a ao usuario para digitar tr ´ es valores inteiros e imprima a soma deles. ˆ
 4. Leia um numero real e imprima o resultado do quadrado desse n ´ umero. ´
